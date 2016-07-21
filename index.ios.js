@@ -1,0 +1,1 @@
+import { TickTack } from './app';
